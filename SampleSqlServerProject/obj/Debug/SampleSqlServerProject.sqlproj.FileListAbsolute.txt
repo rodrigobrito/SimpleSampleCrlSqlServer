@@ -1,0 +1,9 @@
+C:\Sources\SampleSqlServerProject\SampleSqlServerProject\bin\Debug\SampleSqlServerProject.dacpac
+C:\Sources\SampleSqlServerProject\SampleSqlServerProject\bin\Debug\SampleSqlServerProject.dll
+C:\Sources\SampleSqlServerProject\SampleSqlServerProject\bin\Debug\SampleSqlServerProject.pdb
+C:\Sources\SampleSqlServerProject\SampleSqlServerProject\obj\Debug\Model.xml
+C:\Sources\SampleSqlServerProject\SampleSqlServerProject\obj\Debug\refactor.xml
+C:\Sources\SampleSqlServerProject\SampleSqlServerProject\obj\Debug\postdeploy.sql
+C:\Sources\SampleSqlServerProject\SampleSqlServerProject\obj\Debug\predeploy.sql
+C:\Sources\SampleSqlServerProject\SampleSqlServerProject\obj\Debug\SampleSqlServerProject.dll
+C:\Sources\SampleSqlServerProject\SampleSqlServerProject\obj\Debug\SampleSqlServerProject.pdb
