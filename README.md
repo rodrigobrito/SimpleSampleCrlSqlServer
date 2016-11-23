@@ -1,1 +1,1 @@
-# Simple sample of CRL use on SQL Server
+# Simple sample of CRL on SQL Server
